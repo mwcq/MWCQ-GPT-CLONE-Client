@@ -1,0 +1,15 @@
+.leftTitle {
+  font-size: 128px;
+  background: linear-gradient(
+    to right,
+    #217bfe,
+    #e55571
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+
+  @media screen and (max-width: 1280px) {
+   font-size: 64px;
+  }
+}

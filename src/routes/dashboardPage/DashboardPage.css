@@ -1,0 +1,11 @@
+.logoTitle {
+  font-size: 64px;
+  background: linear-gradient(
+    to right,
+    #217bfe,
+    #e55571
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
